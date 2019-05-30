@@ -30,7 +30,8 @@ Follow the steps below, use git bash if you are on windows and terminal on other
 
 clone the repo
 
-`git clone https://github.com/BongoHive/react-2.git my-todo-app` 
+`git clone https://github.com/BongoHive/reponame.git my-todo-app`  
+⚠️ Please replace `reponame` in the above link ☝🏾  with the name of this repo 
 
 `cd my-todo-app`
 
