@@ -43,3 +43,6 @@ start the dev server
 `npm start` this will also open it in your default browser
 
 And get hacking .... 😀🚀
+
+
+**Note**: If you have any problem, create an issue in this repository explaining the problem
